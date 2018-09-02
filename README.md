@@ -1,4 +1,4 @@
-# Python-Basic
+# Python_Basic
 In this we cover some basic function in python.
 some of these are
 
